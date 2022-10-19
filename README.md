@@ -1,1 +1,1 @@
-# she-codes-plus-python
+# she-codes-python
